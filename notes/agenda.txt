@@ -1,0 +1,7 @@
+Agenda - Text to SQL LLM Application
+
+Prompt --> LLM --> Gemini Flash --> Query --> SQL DB --> Response
+
+Implementations
+1. SQLlite --> Insert some records --> Python Programming
+2. LLM Application --> Gemini Flash --> Query --> SQL DB --> Response
